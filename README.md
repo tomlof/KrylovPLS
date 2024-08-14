@@ -32,3 +32,5 @@ model.fit(X, y)
 
 yhat = model.predict(X)
 ```
+# Requirements
+Requires "recent" versions of Numpy and scikit-learn (tested with numpy 1.26.4 and scikit-learn 1.2.2).
