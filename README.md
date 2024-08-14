@@ -1,6 +1,8 @@
 # KrylovPLS
 An implementation of the regularised Krylov subspace formulation of partial least squares regression (PLS-R).
 
+The module contains implementations for ordinary least squares (OSL), partial least squares (PLS-R; the NIPALS algorithm), sparse partial least squares (Sparse PLS-R; Lê Cao et al., 2008), and the regularised Krylov subspace formulation of partial least squares with reconstruction of model components (Krylov PLS; Löfstedt, 2024 [in press]).
+
 # Usage
 
 ```python
